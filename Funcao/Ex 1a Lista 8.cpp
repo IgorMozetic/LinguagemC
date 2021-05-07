@@ -10,7 +10,7 @@ struct cad
     struct cad X[5], aux;
     int cadastro()
     {
-        printf("faca seu cadastro \n");
+        printf("Faca seu cadastro \n");
             for(i=0;i<=4;i++)
             {
             fflush(stdin);
